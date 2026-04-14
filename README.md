@@ -2,7 +2,7 @@
 
 MCP server for [Godot 4.x](https://godotengine.org/) game development. 240+ tools across 39 categories. Works with Claude Code, Cursor, Windsurf, Copilot, Cline, and any other MCP client.
 
-**$25 one-time purchase** — [portal.fireal.dev/godot-catalyst/](https://portal.fireal.dev/godot-catalyst/)
+**$25 one-time purchase**, or **$54 bundle with eyehands** (save $20) — [portal.fireal.dev/godot-catalyst/#buy](https://portal.fireal.dev/godot-catalyst/#buy)
 
 7-day free trial on first install. No account needed to try it.
 
@@ -189,6 +189,6 @@ Email: [support@fireal.dev](mailto:support@fireal.dev)
 
 ## License
 
-The MCP server is proprietary — see [LICENSE](LICENSE). Purchase at [portal.fireal.dev/godot-catalyst/](https://portal.fireal.dev/godot-catalyst/).
+The MCP server is proprietary — see [LICENSE](LICENSE). Purchase at [portal.fireal.dev/godot-catalyst/#buy](https://portal.fireal.dev/godot-catalyst/#buy).
 
 The Godot editor plugin in this repo (`addons/godot_catalyst/`) is MIT-licensed.
