@@ -13,9 +13,9 @@ you agree to the following terms:
    disassemble the software; (b) redistribute, sublicense, or share your
    license key; (c) remove or alter any proprietary notices.
 
-3. GODOT PLUGIN. The GDScript plugin files in the godot-plugin/ directory
-   are provided under the MIT License and may be freely used, modified,
-   and distributed as part of your Godot projects.
+3. GODOT PLUGIN. The GDScript plugin files in the addons/godot_catalyst/
+   directory are provided under the MIT License and may be freely used,
+   modified, and distributed as part of your Godot projects.
 
 4. TERMINATION. This license terminates if you breach any of its terms.
 
