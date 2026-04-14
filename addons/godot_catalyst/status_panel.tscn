@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://addons/godot_catalyst/status_panel.gd" id="1"]
+
+[node name="StatusPanel" type="MarginContainer"]
+script = ExtResource("1")
+custom_minimum_size = Vector2(0, 30)
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="StatusLabel" type="Label" parent="HBoxContainer"]
+layout_mode = 2
+text = "Godot Catalyst: Disconnected"

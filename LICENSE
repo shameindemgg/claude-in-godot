@@ -1,0 +1,26 @@
+Godot Catalyst - Proprietary Software License
+
+Copyright (c) 2026 Fireal Software. All rights reserved.
+
+This software is licensed, not sold. By installing or using Godot Catalyst,
+you agree to the following terms:
+
+1. LICENSE GRANT. Upon purchase of a valid license key, you are granted a
+   non-exclusive, non-transferable license to use this software on up to
+   the number of machines specified by your license.
+
+2. RESTRICTIONS. You may not: (a) reverse engineer, decompile, or
+   disassemble the software; (b) redistribute, sublicense, or share your
+   license key; (c) remove or alter any proprietary notices.
+
+3. GODOT PLUGIN. The GDScript plugin files in the godot-plugin/ directory
+   are provided under the MIT License and may be freely used, modified,
+   and distributed as part of your Godot projects.
+
+4. TERMINATION. This license terminates if you breach any of its terms.
+
+5. NO WARRANTY. This software is provided "as is" without warranty of any
+   kind.
+
+For support: support@fireal.dev
+Purchase: https://portal.fireal.dev/godot-catalyst/
