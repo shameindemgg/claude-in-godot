@@ -20,7 +20,7 @@ Prices are hardcoded in several places across both repos. If you change them, gr
 
 - npm package `godot-catalyst` (published from the private repo's `dist/`)
 - `npx godot-catalyst --install-addon <path>` copies `addons/godot_catalyst/` into the user's Godot project
-- Purchase and license activation go through Keystone at portal.fireal.dev
+- Purchase happens on fireal.dev/godot-catalyst; license activation hits the Keystone API at portal.fireal.dev
 
 ## Layout
 
